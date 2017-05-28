@@ -1,6 +1,6 @@
 <?php
 
-/**
+/** 
  * Allows admin to edit all auth plugin settings.
  *
  * JH: copied and Hax0rd from admin/enrol.php and admin/filters.php
