@@ -1,0 +1,6 @@
+[30-Apr-2017 18:36:15 Asia/Jerusalem] Default exception handler: Access denied Debug: 
+Error code: accessdenied
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 6827 of /lib/adminlib.php: call to print_error()
+* line 23 of /admin/user.php: call to admin_externalpage_setup()
+
