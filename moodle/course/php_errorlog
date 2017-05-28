@@ -1,0 +1,1238 @@
+[27-Apr-2017 15:23:37 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[27-Apr-2017 15:28:36 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[27-Apr-2017 15:29:10 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[30-Apr-2017 05:24:53 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[30-Apr-2017 16:00:21 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Course is hidden
+Error code: requireloginerror
+* line 2696 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[30-Apr-2017 16:00:29 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Course is hidden
+Error code: requireloginerror
+* line 2696 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[30-Apr-2017 16:00:34 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Course is hidden
+Error code: requireloginerror
+* line 2696 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[30-Apr-2017 16:00:40 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Course is hidden
+Error code: requireloginerror
+* line 2696 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[30-Apr-2017 16:00:45 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Course is hidden
+Error code: requireloginerror
+* line 2696 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[30-Apr-2017 16:00:51 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Course is hidden
+Error code: requireloginerror
+* line 2696 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[30-Apr-2017 16:01:12 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Course is hidden
+Error code: requireloginerror
+* line 2696 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[30-Apr-2017 16:01:17 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Course is hidden
+Error code: requireloginerror
+* line 2696 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[30-Apr-2017 16:01:54 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Course is hidden
+Error code: requireloginerror
+* line 2696 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[30-Apr-2017 20:34:54 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[01-May-2017 15:26:42 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[01-May-2017 15:27:43 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[02-May-2017 05:57:47 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 5 of /course/view.php: call to require_once()
+
+[02-May-2017 11:32:08 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 5 of /course/view.php: call to require_once()
+
+[03-May-2017 19:19:05 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[04-May-2017 13:17:24 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[08-May-2017 15:56:42 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[08-May-2017 20:03:04 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[09-May-2017 18:53:30 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Not enrolled
+Error code: requireloginerror
+* line 2812 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[09-May-2017 18:53:31 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Not enrolled
+Error code: requireloginerror
+* line 2812 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[09-May-2017 18:53:31 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Not enrolled
+Error code: requireloginerror
+* line 2812 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[09-May-2017 18:53:31 Asia/Jerusalem] Default exception handler: Course or activity not accessible. Debug: Not enrolled
+Error code: requireloginerror
+* line 2812 of /lib/moodlelib.php: require_login_exception thrown
+* line 59 of /course/view.php: call to require_login()
+
+[09-May-2017 20:35:13 Asia/Jerusalem] Default exception handler: Must specify course id, short name or idnumber Debug: 
+Error code: unspecifycourseid
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 31 of /course/view.php: call to print_error()
+
+[13-May-2017 16:31:54 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[13-May-2017 18:47:42 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[13-May-2017 18:47:44 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[15-May-2017 19:05:34 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 5 of /course/view.php: call to require_once()
+
+[15-May-2017 23:05:24 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[15-May-2017 23:06:13 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[15-May-2017 23:06:25 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[16-May-2017 23:35:23 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[17-May-2017 10:12:54 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 5 of /course/view.php: call to require_once()
+
+[19-May-2017 17:42:15 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:21 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:22 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:22 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:23 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:23 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:23 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:24 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:24 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:25 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:25 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:25 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:26 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:26 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:27 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:27 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:28 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:28 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:29 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:29 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:30 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:30 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:30 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:31 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:31 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:32 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:32 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:32 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:33 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:33 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:34 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:34 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:34 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:35 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:35 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:36 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:36 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:37 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:37 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:37 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:38 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:38 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:39 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:39 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:40 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:40 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:40 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:41 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:41 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:42 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:42 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:43 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:43 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:44 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:44 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:44 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:45 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:45 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:46 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:46 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:47 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:47 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:47 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:48 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:48 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:49 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:49 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:50 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:50 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:50 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:51 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:51 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:52 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:52 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:53 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:53 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:54 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:54 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:55 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:55 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:55 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:56 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:56 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:56 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:57 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:57 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:58 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:58 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:58 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:59 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:00:59 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:00 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:00 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:00 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:01 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:03 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:03 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:04 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:04 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:04 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:05 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:05 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:06 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:06 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:06 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:07 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:07 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:08 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:08 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:08 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:09 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:09 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:10 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:10 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:10 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:11 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:11 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:12 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:12 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:12 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:13 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:13 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:14 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:14 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:14 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:15 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:15 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:15 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:16 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:16 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:17 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:17 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:17 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:18 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[19-May-2017 18:01:18 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 26 of /course/index.php: call to require_once()
+
+[21-May-2017 19:09:09 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[22-May-2017 01:04:51 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 5 of /course/view.php: call to require_once()
+
+[24-May-2017 21:10:32 Asia/Jerusalem] Default exception handler: For security reasons only https connections are allowed, sorry. Debug: 
+Error code: sslonlyaccess
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 889 of /lib/setuplib.php: call to print_error()
+* line 734 of /lib/setup.php: call to initialise_fullme()
+* line 26 of /config.php: call to require_once()
+* line 5 of /course/view.php: call to require_once()
+

@@ -1,0 +1,132 @@
+[15-May-2017 23:05:50 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:05:50 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:05:50 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:05:50 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:05:50 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:05:56 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:05:56 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:05:56 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:04 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:04 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:13 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:13 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:13 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:13 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:13 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:25 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:25 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:25 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:25 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:25 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:53 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
+[15-May-2017 23:06:53 Asia/Jerusalem] Default exception handler: A required parameter (var) was missing Debug: 
+Error code: missingparam
+* line 488 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 44 of /calendar/set.php: call to required_param()
+
