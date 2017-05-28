@@ -1,0 +1,6 @@
+[26-Apr-2017 21:17:06 Asia/Jerusalem] PHP Notice:  Undefined variable: regionbsid in /home/shecodes/public_html/theme/lambda/layout/report.php on line 64
+[03-May-2017 19:18:25 Asia/Jerusalem] Default exception handler: Sorry, but you do not currently have permissions to do that (View grades of other users) Debug: 
+Error code: nopermissions
+* line 784 of /lib/accesslib.php: required_capability_exception thrown
+* line 51 of /grade/report/overview/index.php: call to require_capability()
+
