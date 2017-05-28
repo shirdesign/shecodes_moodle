@@ -1,0 +1,24 @@
+[16-May-2017 07:58:26 Asia/Jerusalem] instantiating backup controller 3957f4a1c3613960ebe8e3e413d1a6d6
+[16-May-2017 07:58:26 Asia/Jerusalem] setting controller status to 100
+[16-May-2017 07:58:26 Asia/Jerusalem] loading controller plan
+[16-May-2017 07:58:26 Asia/Jerusalem] setting controller status to 300
+[16-May-2017 07:58:26 Asia/Jerusalem] applying plan defaults
+[16-May-2017 07:58:26 Asia/Jerusalem] setting controller status to 400
+[16-May-2017 07:58:26 Asia/Jerusalem] setting file inclusion to 1
+[16-May-2017 07:58:26 Asia/Jerusalem] checking plan security
+[16-May-2017 07:58:26 Asia/Jerusalem] setting controller status to 500
+[16-May-2017 07:58:26 Asia/Jerusalem] checking plan security
+[16-May-2017 07:58:26 Asia/Jerusalem] checking plan security
+[16-May-2017 07:58:26 Asia/Jerusalem] checking plan security
+[16-May-2017 07:58:26 Asia/Jerusalem] saving controller to db
+[16-May-2017 07:58:26 Asia/Jerusalem] calculating controller checksum de81cacacdbba430e333459740530875
+[16-May-2017 07:58:46 Asia/Jerusalem] loading controller from db
+[16-May-2017 07:58:46 Asia/Jerusalem] checking plan security
+[16-May-2017 07:58:46 Asia/Jerusalem] checking plan security
+[16-May-2017 07:58:46 Asia/Jerusalem] setting controller status to 700
+[16-May-2017 07:58:46 Asia/Jerusalem] saving controller to db
+[16-May-2017 07:58:46 Asia/Jerusalem] calculating controller checksum 42c3786b43705d57af3b1c40f94d817f
+[16-May-2017 07:58:46 Asia/Jerusalem] loading controller from db
+[16-May-2017 07:58:46 Asia/Jerusalem] setting controller status to 800
+[16-May-2017 07:58:47 Asia/Jerusalem] setting controller status to 1000
+[16-May-2017 07:58:47 Asia/Jerusalem] saving controller to db

@@ -1,0 +1,10 @@
+{
+  "name": "moodle-availability_geolocation-form",
+  "builds": {
+    "moodle-availability_geolocation-form": {
+      "jsfiles": [
+        "form.js"
+      ]
+    }
+  }
+}
