@@ -21,17 +21,25 @@ var branchesLocations = [
 	{lat:32.06898, lon:34.79332}, //Klarna  – יגאל אלון 98 קומה 13
 	{lat:32.11149, lon:34.80644}, //University –  orenstein building , Tel Aviv
 	{lat:32.11337, lon:34.80671}, //University –  חיים לבנון 55 בניין שרייבר חדר 309
+	{lat:32.110445, lon:34.804253}, //University –  (עודכן על ידי שירת ב15 לינואר 2018) אולם
+
+	{lat:32.116100, lon:34.805975}, //University –  אולם לולה פקולטה לרפואה
 	{lat:32.07545, lon:34.79495}, //IBM Trusteer –  ben yehuda and noh mozes 13 agish ravad building , Tel Aviv
 	{lat:32.097233, lon:34.773854}, //Wix - ביתן 27, נמל תל אביב
 	{lat:32.100759, lon:34.775041}, //Wix - זמני - ביתן 26, נמל תל אביב
 	{lat:32.080214, lon:34.799483}, //IBM Trusteer –  שפע טל 1, תל אביב
 
+        {lat:32.0639722, lon:34.7764387},//Soloto -רוטשילד 39 תל אביב
 
+      
+
+        //Dalit el Carmel
+        {lat:32.6977572, lon:35.0471776},//Dalit el Carmel
 	
 	
 	//RAMAT-GAN
 	{lat:32.0729701, lon:34.8494046}, //Bar Ilan University - building 1105
-	{lat:32.09000, lon:34.80302}, //Shenkar College of Engineering and Design - Anne Frank St 12, Ramat Gan, Israel
+	{lat:32.0884200, lon:34.8023060}, //Shenkar College of Engineering and Design - Habonim St 14, Ramat Gan, Israel
 	
 	//JERUSALEM
 	{lat:31.77378, lon:35.21938}, //American Center – קרן היסוד 19
@@ -40,6 +48,7 @@ var branchesLocations = [
 	{lat:31.79298, lon:35.24287}, //Hebrew University – העברית - ספרייה
 	{lat:31.7858530, lon:35.1893090}, //הדפוס 9, ירושלים
 	{lat:31.7856810, lon:35.1896400}, //הדפוס 7, ירושלים
+	{lat:31.7928280, lon:35.2101410}, //מנחת יצחק 25 ירושלים - סניף חרדיות
 	
 	//BEER-SHEVA
 	{lat:31.24869, lon:34.78942}, //SCE – רחוב ביאליק באר שבע
